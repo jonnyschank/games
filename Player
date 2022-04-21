@@ -1,3 +1,11 @@
 # Jonathan Schank / 
 # created: 04/19/2022
+
+class Player:
+  def __init__(self):
+    pass
+class HumanPlayer(Player):
+  def __init__(self):
+    pass
+
 print('hello world').upper
